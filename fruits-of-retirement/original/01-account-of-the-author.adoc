@@ -1,16 +1,16 @@
 [quote.epigraph, , Ex. 15:21]
 ____
 And Miriam answered them, sing ye to the Lord,
-for he hath triumphed gloriously,
+for he hath triumphed gloriously.
 ____
 
 == An Account of the Author
 
-=== A Testimony Concerning My dear Friend and Cousin Mary Mollineux, Deceased.
+[.centered]
+=== A Testimony Concerning My dear Friend and Cousin Mary Mollineux, Deceased
 
-In a living remembrance of the benefit which I received by her labour of love;
-and now recommend to the youth of our age, to excite them to faithfulness,
-and a circumspect conversation.
+[.blurb]
+=== In a living remembrance of the benefit which I received by her labour of love; and now recommend to the youth of our age, to excite them to faithfulness, and a circumspect conversation.
 
 The worthy author of these writings,
 was one whose near relation to me began our acquaintance almost with our lives;
@@ -255,10 +255,13 @@ that they may reap such an advantage by them, as may tend to the promotion of Tr
 and the good of souls in general.
 Which is the sincere desire of an universal well-wisher to all mankind,
 
+[.signed-section-signature]
 Frances Owen
 
+[.signed-section-context-close]
 Rigate, the 20th of the Third Month, 1701.
 
+[.centered]
 === A Testimony Concerning My Dear Friend Mary Mollineux
 
 As concerning my dearly beloved friend, Mary Mollineux,
@@ -299,58 +302,41 @@ I desire and hope, they may truly tend to the benefit of all moderate readers,
 and to the praise of him, who is the only author of every good and perfect gift.
 And so I rest a well-wisher to all mankind; but more especially to the household of faith.
 
+[.signed-section-signature]
 Tryal Ryder
 
+[verse]
+____
 Is worthy Mollineux now fall`'n asleep,
-
 In true contentedness, and silence deep?
-
 Her noble blessed soul yet lives above,
-
 I`' th`' everlasting bliss, i`' th`' Father`'s love;
-
-Where the doth rest, whilst we ourselves bemoan
-
+Where she doth rest, whilst we ourselves bemoan
 Our loss of her, in virtue so well known.
-
 And still her memory remains alive
-
 I`' th`' hearts of all her friends, who do survive;
-
 Who knew her virt`'ous mind, life, words, and way,
-
 That from her tender youth she did not stray
-
 From wisdom`'s voice and dictates in her heart,
-
 Whereby she was enabled to impart
-
 Some fruits thereof, while she was very young,
-
 To such as saw to what it did belong:
-
 The tender noble seed of grace and Truth,
-
 Did freely spring, when she was in her youth;
-
 And grew in her, as she increas`'d in years,
-
 Bringing forth fruit as by her book appears:
-
 Of which a testimony rests behind,
-
 As they that read her lines may fully find.
-
 She did not strive, nor glory, to appear
-
 In gifts or parts, but still to live in fear;
-
 Whence wisdom`'s known to have a true beginning,
-
 And in the same she made a faithful ending.
+____
 
+[.signed-section-signature]
 Tryal Ryder
 
+[.centered]
 === A Testimony Concerning My Late Wife Mary Mollineux, Deceased
 
 Concerning my dear, loving, and late deceased wife, Mary Mollineux,
@@ -538,315 +524,171 @@ through his assistance, according to the understanding given me,
 I have endeavoured fully to discharge my duty of endeared love to her, in every respect,
 in her last (as well as former) exercises; therefore I am, in the love of God, comforted,
 and can cheerfully and freely say, the Lord`'s will is worthy to be done in all things,
-and his name to be blessed, praised and magnified, over all, forever,
+and his name to be blessed, praised and magnified, over all, forever, by
 
-By Henry Mollineux
-
-=== A Few Words More, in Remembrance of My Dear Wife, Mary Mollineux
-
-Tho`' it may seem to some that read my lines
-
-As a delightful thing, because their minds
-
-Still their enjoyments have; yet they must know
-
-No lasting joys remain in things below.
-
-The scythe of time, death, parteth friend from friend,
-
-But to true friendship cannot put an end;
-
-Though friends surviving exercise may find,
-
-Whose friends remov`'d, whilst they remain behind.
-
-My friend, my friend, my dearest friend, my wife,
-
-The greatest joy and comfort of my life,
-
-In visibles, is now remov`'d from me:
-
-Though, as one destitute of hope, I see,
-
-No cause to mourn for her; but sure I may
-
-Be, for my loss, concern`'d: yet this can say,
-
-The Lord hath giv`'n, the Lord hath took again,
-
-High praises still be to his gloriou`'s name,
-
-Tho mine`'s the loss, hers is the endless gain,
-
-Although to me my loss to bear is hard,
-
-Yet am I from repining quite debarr`'d;
-
-The Lord doth with his goodness so supply,
-
-My soul shall ever praise him, till I die.
-
-Bless`'d be the day, wherein my love abounded,
-
-At first to her, and friendship firm was founded,
-
-In our united hearts, my faithful friend!
-
-Friendship `'twixt thee and me shall never end.
-
-She was my wife for full ten years, (alas,
-
-Short time!) which we in tender love did pass
-
-Endearingly, which in our hearts was sown,
-
-Some time before, by the Eternal One;
-
-Which, living in our bosoms, did increase,
-
-Until the time of her deplor`'d decease,
-
-And now`'s as fresh as ever.
-Surely me,
-
-Who wrote of friendship, love`'s extreme degree,
-
-(Although with life, her pen was much sublim`'d,
-
-Yet) did not, as her bosom held it, find
-
-Words half sufficient, fully to declare
-
-The faithful love she to her friend did bear.
-
-True, tender-hearted, in affection kind,
-
-Exceeding diligent, and much inclin`'d
-
-All for to serve in love; but much more me,
-
-To whom she had comply`'d my wife to be.
-
-She to the age of thirty-four years stayed
-
-A modest, chaste, reserv`'d, ingenious maid
-
-Who did not only write of modesty,
-
-(In words profound) and spotless chastity,
-
-But in example was, as well as words,
-
-A pattern in the same: wherein accords
-
-Her life, works, writings, words, true, lovely, sweet,
-
-Which in consonant harmony did meet.
-
-And as she wrote of worship, truth, and zeal,
-
-With courage bold for God, she did not fail,
-
-Being by his Arm upheld, when deeply prov`'d,
-
-To stand a faithful witness: for she lov`'d
-
-The praise of God, more than the praise of men;
-
-Therefore was more to him, seem`'d less to them
-
-That did not choose his fear: wherein she found
-
-Wisdom to stop their mouths, their wits confound;
-
-Though of the chief in Babel`'s learning, they
-
-Stood as amaz`'d, and knew not what to say.
-
-A Bishop of two counties diocese
-
-Her question`'d, she repli`'d, be proved this:
-
-His chaplain then (the master`'s cause to mend)
-
-Attempting to dispute, was foil`'d i`' th`' end;
-
-Whose brother (being lawyer) present cry`'d,
-
-Her learning made her mad; when she reply`'d,
-
-He, as asham`'d and speechless, turn`'d aside.
-
-Thus three great learned men, of subtle wit,
-
-(To silence put) did in one hour submit
-
-T`' a little woman, crown`'d with wisdom`'s bays
-
-Who, in God`'s fear did celebrate his praise,
-
-Declaring boldly `'gainst that worship, which
-
-God ne`'er set up, that makes its merchants rich.
-
-She lov`'d the precious Truth (plac`'d in her heart)
-
-For which she was imprison`'d; but the smart
-
-Its adversaries felt: for joy to her
-
-Thereby accru`'d, who did its cause prefer.
-
-Before all transitories.
-And, when I
-
-Was prisoner for the same, it was my joy,
-
-That she great exercise did nobly bear,
-
-Therein rejoicing in God`'s holy fear:
-
-Though for her sake, grief pierced oft my mind,
-
-When I the sense did of her suffering find,
-
-So deep, that from mine eyes my sleep withdrew,
-
-And secret tears did frequently pursue:
-
-Yea, without outward notice, once was I,
-
-When she was by distemper, like to die,
-
-Made sensible thereof, though in the jail,
-
-Distant near forty miles, and did condole;
-
-And for her to the Lord I pray`'d, whose ear
-
-Was open, and through prison-walls did hear:
-
-And he releas`'d her from her malady,
-
-And me from prison, her again to see;
-
-Though then confin`'d, as firm as men could tie;
-
-Praises be to God`'s name eternally.
-
-She sweetly wrote of charity divine,
-
-Which in her heart and life did clearly shine
-
-More bright, than in her words; which did extend,
-
-In her, to poor and rich, to foe and friend;
-
-To all in plainness she, with due respect,
-
-Would freely shew her sense; but to reflect
-
-`'Gainst any, being absent, did eschew;
-
-Charity taught her better things to do.
-
-To any, in affliction, she was free
-
-Advice to give, or help with remedy,
-
-Where her endeavours could; which God did bless,
-
-Remarkably, with the desir`'d success:
-
-Yea, sometimes, when physicians had been try`'d,
-
-Much money paid, and still the cure deny`'d
-
-To their performance, she in freeness gave
-
-What, from distempers dreadful, prov`'d to save.
-
-But charity in her did farther move
-
-Her tender heart, in sympathizing love,
-
-To use her tongue or pen, a word to give
-
-To minds in exercise; which did relieve,
-
-Convince, or satisfy, and strengthen some,
-
-The race of virtue in their time to run.
-
-For which, some have good cause to bless the name
-
-Of God, from whom these words with virtue came.
-
-This is not writ to magnify her praise,
-
-The praise belongs to God, who first did raise
-
-Her mind, from things below to seek his Truth,
-
-Hid in her heart, in time of tender youth;
-
-Which, truly sought, she found, and prized more
-
-Than Ophir`'s gold, or pearls of Indian-shore.
-
-This taught her to discern the way of God,
-
-From ways of men; this made her love his rod:
-
-This gave her knowledge of her duty right
-
-Unto the Lord; this gave her also sight
-
-Into the properties of needful things,
-
-Of many kinds, that mortals comfort brings:
-
-This gave her, in her tender years, to see
-
-The frail estate of poor mortality:
-
-The sense whereof she daily did retain,
-
-Striving, with earnest diligence, to gain
-
-The precious pearl of immortality.
-
-As if she knew how short her time should be;
-
-In hope of which, when painful death assail`'d
-
-Her mortal part, her courage never fail`'d,
-
-But did (with sense as sound as ever) shew
-
-Her true content, and satisfaction too.
-
-To leave this world, of true felicity,
-
-To be possess`'d to all eternity.
-
-O may, with me, her offspring still remain
-
-In God`'s pure fear, eternal life to gain:
-
-Then, this sort time once past, we may in peace,
-
-Live with the just, where joys shall never cease;
-
-Where we, with her, may living praises sing
-
-Forever to the Lord, the heavenly King:
-
+[.signed-section-signature]
 Henry Mollineux
 
-=== The following relation, touching some discourse that (upon occasion ) she had with Doctor Stratford (so called) Bishop of the Diocese of Cheshire and Lancashire, etc.
+[.centered]
+=== A Few Words More, in Remembrance of My Dear Wife, Mary Mollineux
 
-Given forth and attested by my kinsman Henry Mollineux, who was there present, viz.
+[verse]
+____
+Tho`' it may seem to some that read my lines
+As a delightful thing, because their minds
+Still their enjoyments have; yet they must know
+No lasting joys remain in things below.
+The scythe of time, death, parteth friend from friend,
+But to true friendship cannot put an end;
+Though friends surviving exercise may find,
+Whose friends remov`'d, whilst they remain behind.
+My friend, my friend, my dearest friend, my wife,
+The greatest joy and comfort of my life,
+In visibles, is now remov`'d from me:
+Though, as one destitute of hope, I see,
+No cause to mourn for her; but sure I may
+Be, for my loss, concern`'d: yet this can say,
+The Lord hath giv`'n, the Lord hath took again,
+High praises still be to his gloriou`'s name,
+Tho mine`'s the loss, hers is the endless gain,
+Although to me my loss to bear is hard,
+Yet am I from repining quite debarr`'d;
+The Lord doth with his goodness so supply,
+My soul shall ever praise him, till I die.
+Bless`'d be the day, wherein my love abounded,
+At first to her, and friendship firm was founded,
+In our united hearts, my faithful friend!
+Friendship `'twixt thee and me shall never end.
+She was my wife for full ten years, (alas,
+Short time!) which we in tender love did pass
+Endearingly, which in our hearts was sown,
+Some time before, by the Eternal One;
+Which, living in our bosoms, did increase,
+Until the time of her deplor`'d decease,
+And now`'s as fresh as ever. Surely me,
+Who wrote of friendship, love`'s extreme degree,
+(Although with life, her pen was much sublim`'d,
+Yet) did not, as her bosom held it, find
+Words half sufficient, fully to declare
+The faithful love she to her friend did bear.
+True, tender-hearted, in affection kind,
+Exceeding diligent, and much inclin`'d
+All for to serve in love; but much more me,
+To whom she had comply`'d my wife to be.
+She to the age of thirty-four years stayed
+A modest, chaste, reserv`'d, ingenious maid
+Who did not only write of modesty,
+(In words profound) and spotless chastity,
+But in example was, as well as words,
+A pattern in the same: wherein accords
+Her life, works, writings, words, true, lovely, sweet,
+Which in consonant harmony did meet.
+And as she wrote of worship, truth, and zeal,
+With courage bold for God, she did not fail,
+Being by his Arm upheld, when deeply prov`'d,
+To stand a faithful witness: for she lov`'d
+The praise of God, more than the praise of men;
+Therefore was more to him, seem`'d less to them
+That did not choose his fear: wherein she found
+Wisdom to stop their mouths, their wits confound;
+Though of the chief in Babel`'s learning, they
+Stood as amaz`'d, and knew not what to say.
+A Bishop of two counties diocese
+Her question`'d, she repli`'d, be proved this:
+His chaplain then (the master`'s cause to mend)
+Attempting to dispute, was foil`'d i`' th`' end;
+Whose brother (being lawyer) present cry`'d,
+Her learning made her mad; when she reply`'d,
+He, as asham`'d and speechless, turn`'d aside.
+Thus three great learned men, of subtle wit,
+(To silence put) did in one hour submit
+T`' a little woman, crown`'d with wisdom`'s bays
+Who, in God`'s fear did celebrate his praise,
+Declaring boldly `'gainst that worship, which
+God ne`'er set up, that makes its merchants rich.
+She lov`'d the precious Truth (plac`'d in her heart)
+For which she was imprison`'d; but the smart
+Its adversaries felt: for joy to her
+Thereby accru`'d, who did its cause prefer.
+Before all transitories. And, when I
+Was prisoner for the same, it was my joy,
+That she great exercise did nobly bear,
+Therein rejoicing in God`'s holy fear:
+Though for her sake, grief pierced oft my mind,
+When I the sense did of her suffering find,
+So deep, that from mine eyes my sleep withdrew,
+And secret tears did frequently pursue:
+Yea, without outward notice, once was I,
+When she was by distemper, like to die,
+Made sensible thereof, though in the jail,
+Distant near forty miles, and did condole;
+And for her to the Lord I pray`'d, whose ear
+Was open, and through prison-walls did hear:
+And he releas`'d her from her malady,
+And me from prison, her again to see;
+Though then confin`'d, as firm as men could tie;
+Praises be to God`'s name eternally.
+She sweetly wrote of charity divine,
+Which in her heart and life did clearly shine
+More bright, than in her words; which did extend,
+In her, to poor and rich, to foe and friend;
+To all in plainness she, with due respect,
+Would freely shew her sense; but to reflect
+`'Gainst any, being absent, did eschew;
+Charity taught her better things to do.
+To any, in affliction, she was free
+Advice to give, or help with remedy,
+Where her endeavours could; which God did bless,
+Remarkably, with the desir`'d success:
+Yea, sometimes, when physicians had been try`'d,
+Much money paid, and still the cure deny`'d
+To their performance, she in freeness gave
+What, from distempers dreadful, prov`'d to save.
+But charity in her did farther move
+Her tender heart, in sympathizing love,
+To use her tongue or pen, a word to give
+To minds in exercise; which did relieve,
+Convince, or satisfy, and strengthen some,
+The race of virtue in their time to run.
+For which, some have good cause to bless the name
+Of God, from whom these words with virtue came.
+This is not writ to magnify her praise,
+The praise belongs to God, who first did raise
+Her mind, from things below to seek his Truth,
+Hid in her heart, in time of tender youth;
+Which, truly sought, she found, and prized more
+Than Ophir`'s gold, or pearls of Indian-shore.
+This taught her to discern the way of God,
+From ways of men; this made her love his rod:
+This gave her knowledge of her duty right
+Unto the Lord; this gave her also sight
+Into the properties of needful things,
+Of many kinds, that mortals comfort brings:
+This gave her, in her tender years, to see
+The frail estate of poor mortality:
+The sense whereof she daily did retain,
+Striving, with earnest diligence, to gain
+The precious pearl of immortality.
+As if she knew how short her time should be;
+In hope of which, when painful death assail`'d
+Her mortal part, her courage never fail`'d,
+But did (with sense as sound as ever) shew
+Her true content, and satisfaction too.
+To leave this world, of true felicity,
+To be possess`'d to all eternity.
+O may, with me, her offspring still remain
+In God`'s pure fear, eternal life to gain:
+Then, this sort time once past, we may in peace,
+Live with the just, where joys shall never cease;
+Where we, with her, may living praises sing
+Forever to the Lord, the heavenly King:
+____
+
+[.signed-section-signature]
+Henry Mollineux
+
+[.blurb]
+=== The following relation, touching some discourse that (upon occasion) she had with Doctor Stratford (so called) Bishop of the Diocese of Cheshire and Lancashire, etc. Given forth and attested by my kinsman Henry Mollineux, who was there present, viz.
 
 Upon the 18th day of the twelfth month 1690,
 I and another neighbour were taken prisoners, and brought to Lancaster Jail,
@@ -913,8 +755,10 @@ To which she said, "`What! do you (letter-learned) now begin to vilify learning,
 by which you have your honours and preferments?`"
 Then the lawyer, not speaking any other word, went away, and the left them.
 
+[.signed-section-closing]
 Declared and testified by my kinsman,
 
+[.signed-section-signature]
 Henry Mollineux.
 
 So the Bishop, and his chaplain, and the chaplain`'s brother, a lawyer,
@@ -927,23 +771,24 @@ and understanding that the parish-priest was endeavouring to get us into
 it again (and so we were again imprisoned) she spoke these words,
 which I then wrote, viz.
 
+[verse]
+____
 Esuriens agnis quantum concedet in agris
-
 Ipse lupus, vobis jam dabit iste miser;
-
 Crudelisque rapax, cupidus, sine jure, sacerdos,
-
 Nummos, non Animas, curat, egetque cupit.
+____
 
+[.offset]
 Which bears the signification following,
 
+[verse]
+____
 Even what the hungry wolf in field would do
-
 To feeding lambs, so will the wretch to you:
-
 The cruel priest, fierce, covetous, unjust,
-
 For money, not for souls, doth cark and lust.
+____
 
 And so, in getting us into prison again, the priest obtained his point;
 but he missed of his prey, and never got it.
@@ -953,250 +798,176 @@ ever shewing her free resignation to the will of the Lord, in all her exercises,
 which then were great; and with much cheerfulness and patience she went through them.
 And since her decease, I found these following lines, which she had written, viz.
 
+[verse]
+____
 Tho`' some on furious waves be often toss`'d,
-
 And by the stormy winds oppos`'d and cross`'d,
-
 And watch`'d by roving pirates, surely they
-
 Are kept by one whom winds and waves obey:
-
 Tho`' sometimes exercis`'d, thereby to learn
-
 Who guards and sits a pilot at the stern,
-
 And with his Arm of power doth interpose
-
 Betwixt his children and their wond`'ring foes.
-
 O who would not love, honour, and depend
-
 On such a potent, such a constant Friend!
+____
 
+[.offset]
 So she depended upon the Lord, and he preserved her.
 
 In a letter, dated the 9th of the 12th Month, 1691, she sent to me in prison,
 these lines, viz.
 
+[verse]
+____
 I.
-
 Qui nocent sanctis, Dominus locutus,
-
 Hi sui tangunt Oculi Pupillam,
-
 Sentient iram, quoque reddet istis
-
 Praemia dira.
 
 II.
-
 Si Deo credis filioque Christo,
-
 Quisquis es vir desipiensque rudis!
-
 Cautus es ne tu Domino repugnas
-
 Cordeque pugnis.
 
 III.
-
 Stultus at dixit sibi corde, nullus
-
 Est Deus; spernens igitur doceri
-
 // lint-disable invalid-characters "æ"
 Sæpe protervus ruit in ruinam
-
 Absque timore.
+____
 
+[.signed-section-signature]
 Mary Mollineux
 
 She signified her haste in the writing of these, because the bearer stayed for the letter,
 and that she had not made any of such quantities for above twenty years before.
 They bear the signification following, viz.
 
+[verse]
+____
 I.
-
 The Lord, of them that hurt his saints, doth say,
-
 They touch the apple of his eye; and they
-
 Shall feel his anger; he will them requite
-
 With dreadful plagues, in death`'s eternal night.
 
 II.
-
 If thou believest God, and Christ his son,
-
 Whoe`'er thou art, thou rude and foolish man,
-
 Beware, lest thou the Lord of Heaven resist,
-
 And fight against him both with heart and fist.
 
 III.
-
 But in his heart the foolish man hath said,
-
 There is no God; and therefore not dismay`'d
-
 To slight his teachings: he in froward wrath,
-
 Runs fearless on in ruin`'s dreadful path.
+____
 
-Englished by Henry Mollineux
+[.signed-section-closing]
+Englished by
 
+[.signed-section-signature]
+Henry Mollineux
+
+[.offset]
 About a week before her last illness seized her, she desired me, being writing,
 to write these two lines, viz.
 
+[verse]
+____
 // lint-disable invalid-characters "æ"
 Non quærit laudem Virtus, sibi debita vera est
-
 Gloria, quam frendens nequit hinc depellere livor.
+____
 
+[.offset]
 Which I translate thus; viz.
 
+[verse]
+____
 Virtue seeks not for praise of men, true glory is its due,
-
 Which fretting envy never can dispel from virtue true.
+____
 
+[.signed-section-signature]
 Henry Mollineux
 
+[.centered]
 === To the Reader
 
+[verse]
+____
 The author of this miscellaneous grove,
-
 Was fruitful both in virtue and in love:
-
 Read but the following lines, and thou may`'st find,
-
 She was the mistress of a noble mind;
-
 A soul of more than common size possess`'d
-
 Her (almost I had said) too narrow breast.
-
 True to her friend, as plainly doth appear,
-
 In dealing plainly with her friend so dear:
-
 She us`'d no gilded baits, no flattery,
-
 No feigned words, but plain sincerity;
-
 Which doth bespeak her love, and virtue too,
-
 Contended, one the other to outdo.
-
 In numbers sweet, her warbling pen hath try`'d
-
 Unerring Truth from error to divide:
-
 Her lines, thus measur`'d, have successful been,
-
 To turn the wand`'ring mind to search within;
-
 Where that invaluable treasure lies,
-
 Unsought by most, discover`'d to the wise;
-
 But yet conceal`'d and hid from vult`'rous eyes.
-
 `'Tis not the common way, I must confess,
-
 To write in verse, altho`' `'tis ne`'ertheless
-
 To be esteem`'d; because some do disdain,
-
 And undervalue what they can`'t attain:
-
 I`'d have such unadvised ones to know,
-
 Their genius perches on a lower bough,
-
 For want of wings their utun`'d souls to raise
-
 Unto a pitch of harmony and praise.
-
 Oft have I seen the lark upon the wing,
-
 Toward the sun ascend, and sweetly sing,
-
 As if she had a tribute due to pay
-
 Unto the mighty Ruler of the day,
-
 In well-composed songs of tuneful breath,
-
 Such as the swan repeats before her death.
-
 Thus was our author`'s noble faculty
-
 Employ`'d to render thanks, in melody,
-
 To him, from whom she did her life receive;
-
 To him, who never sparingly doth give
-
 To them that, to his praise, his gifts do use,
-
 And with his blessings don`'t the world abuse.
-
 `'Tis such as these unto the well can sing,
-
 That bubbles up from the eternal spring;
-
 And these alone, that to themselves secure
-
 A place, where waters fail not, and where bread is sure
-
 I`' th`' praise of noble verse, much I might say,
-
 Which, tho`' by some abus`'d, its value don`'t allay.
-
 A pearl will not the less a crown adorn,
-
 `'Cause by a filthy swine it hath been worn,
-
 And trampled under foot; th`' intrinsic price
-
 Will still appear unto the truly wise.
-
 We read in sacred writ of some that wore,
-
 The jewels of the Lord, and play`'d the whore:
-
 We also read, how David, with his lyre,
-
 Could still Saul`'s rage, and sooth his secret fire,
-
 That did his breast inflame, and heavenly thoughts inspire;
-
 How with his verse, he could his mind compose,
-
 And lull his passions to a soft repose.
-
 Psalms are full of hymns and songs of praise,
-
 Prophetic mystic flights, in heavenly lays;
-
 Which may suffice to let the reader know,
-
 He was a poet, and a prophet too.
-
 The wisest prince that ever fill`'d a throne,
-
 Or sway`'d a scepter in the world, was one,
-
 Who of divine and heavenly love has sang
-
 A song, which from th`' harmonious Being sprang,
-
 Therefore, kind reader, don`'t pre-judge, but try,
-
 And then, no doubt, but in this harmony,
-
 Thou`'lt, to thy comfort, satisfaction find,
-
 When discomposure doth possess thy mind.
+____
