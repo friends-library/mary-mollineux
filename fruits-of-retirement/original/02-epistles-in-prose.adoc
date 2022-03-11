@@ -1,7 +1,9 @@
 == Epistles in Prose
 
-=== An Epistle to her Kinswoman F. R.
+[.centered]
+=== An Epistle to Her Kinswoman F. R.
 
+[.salutation]
 Dear Friend and Cousin,
 
 In the unfeigned love, my heart is concerned for thee,
@@ -51,9 +53,14 @@ that "`The secrets of the Lord are with them that fear him;`" and,
 shall be made ruler over much:`" of which gracious privilege,
 that thou mayst become a living witness, is the hearty desire of
 
-Thy faithful friend and cousin.
+[.signed-section-signature]
+Thy Faithful Friend and Cousin.
 
+[.signed-section-context-close]
 Warrington, the 3rd of the Tenth Month 1678.
+
+[.postscript]
+====
 
 Postscript.--The Lord can and will preserve those that love and depend upon him,
 and love the light, bringing their deeds to it, that they maybe made manifest;
@@ -61,16 +68,20 @@ as it is written, Eph. 5:13, "`Whatsoever makes manifest,
 is Light,`" and that within revealed, even in the heart.
 And as one of our sex hath notably said or writ, several years since:
 
+[verse]
+____
 He that commands himself, is more a prince
-
 Than he that nations keeps in awe;
-
 Who yield to that which doth their souls convince,
-
 Shall never need another law.
+____
 
+====
+
+[.centered]
 === Another Epistle to F. R.
 
+[.salutation]
 Dearly beloved Cousin,
 
 Distance of place cannot easily cancel the characters
@@ -82,10 +93,13 @@ In this therefore is the true perfection,
 which I desire we may daily more and more press after, and travail for.
 I am
 
-Thy truly loving cousin.
+[.signed-section-signature]
+Thy Truly Loving Cousin.
 
+[.centered]
 === Another Epistle to F. R.
 
+[.salutation]
 Well-beloved Friend and Cousin,
 
 I have received two letters from thee,
@@ -106,10 +120,13 @@ Ah! it is now no time to delay, but flee from Babylon to the Rock of Ages,
 even to Mount Zion the refuge of Israel, the safe hiding place.
 Where, that we may together know an eternal habitation, is the hearty desire of
 
-Thy true friend and cousin.
+[.signed-section-signature]
+Thy True Friend and Cousin.
 
+[.centered]
 === Another Epistle to F. R.
 
+[.salutation]
 Dear Cousin,
 
 In that unfeigned love that thinks no evil, do I dearly salute thee; hoping thou,
@@ -138,12 +155,16 @@ Therefore, dear friend, be encouraged; for,
 that the wrath of man shall turn to the praise of the Lord,
 and the remainder be surely restrained, is the hope and confidence of
 
-Thy true friend.
+[.signed-section-signature]
+Thy True Friend.
 
+[.signed-section-context-close]
 Lancaster Castle, the 31st of the Fifth Month 1684.
 
+[.centered]
 === Another Epistle to F. R.
 
+[.salutation]
 Dear Friend,
 
 Can any but a second self, judge how welcome thy kind epistle was to confined friends?
@@ -177,12 +198,16 @@ Yet that both we and thou may know a will and mind
 freely resigned to the eternal wisdom in all things,
 is the secret breathings of
 
-Thy cheerful and constant friend.
+[.signed-section-signature]
+Thy Cheerful and Constant Friend.
 
+[.signed-section-context-close]
 Lancaster Castle, the 10th of the sixth Month 1684.
 
+[.centered]
 === Another Epistle to F. R.
 
+[.salutation]
 Dear Cousin,
 
 I have received thy redoubled tokens of friendship,
@@ -201,6 +226,7 @@ Who can enough admire thee?
 Dear Friend, wait low to feel the influence thereof +++[+++in]
 every opportunity,
 that so the life may be known to capacitate our engaged souls to return all the praise,
-honour and glory unto him, to whom alone it doth belong.
+honour and glory unto him, to whom alone it doth belong. This from,
 
-This from thy true friend and cousin.
+[.signed-section-signature]
+Thy True Friend and Cousin.
