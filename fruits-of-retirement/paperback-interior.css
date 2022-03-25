@@ -1,0 +1,4 @@
+.verse-stanza {
+  /* prevent funky empty pages for long poem stanzas */
+  page-break-inside: auto;
+}
