@@ -2,3 +2,17 @@
   font-size: 2.4%
 }
 
+#__id__ .main-title {
+  margin-top: -0.55in;
+  font-size: 0.87in;
+}
+
+#__id__ .subtitle {
+  font-size: 0.45in;
+  margin-top: -0.5in;
+}
+
+#__id__ .initials {
+  opacity: 0.8;
+}
+
